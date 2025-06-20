@@ -1,8 +1,7 @@
 ## Halo! Saya Whisnu 👋
 
 👨‍💻 Mahasiswa Informatika   
-🌱 Sedang belajar C++, Web Development, dan Data Structures  
-🎯 Fokus bikin project yang bermanfaat dan open-source  
+🌱 Sedang belajar C++, Web Development, dan Data Structures    
 📫 Bisa dihubungi lewat: [LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) | [Email](mailto:anandawhisnuuu@email.com)
 
 ---
