@@ -3,6 +3,7 @@
 🌱 Sedang belajar 
 
  ---
+![Profile views](https://komarev.com/ghpvc/?username=Wsntch3&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsntch3&layout=compact&theme=radical)
 
