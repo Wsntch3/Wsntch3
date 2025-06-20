@@ -1,9 +1,9 @@
 ## Halo! Saya Whisnu 👋
 
-👨‍💻 Mahasiswa Informatika di UNESA  
+👨‍💻 Mahasiswa Informatika   
 🌱 Sedang belajar C++, Web Development, dan Data Structures  
 🎯 Fokus bikin project yang bermanfaat dan open-source  
-📫 Bisa dihubungi lewat: [LinkedIn](https://linkedin.com/in/USERNAME) | [Email](mailto:kamu@email.com)
+📫 Bisa dihubungi lewat: [LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) | [Email](mailto:anandawhisnuuu@email.com)
 
 ---
 
@@ -21,5 +21,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsntch3&layout=compact&theme=radical)
 
 ---
-
-![Visitors](https://komarev.com/ghpvc/?username=Wsntch3&color=brightgreen)
