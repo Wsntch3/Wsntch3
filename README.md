@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Whisnu&fontSize=40&fontAlignY=35" />
-</p>
-
 ## Hi there, I'm Whisnu 👋
 
 👨‍💻 **Informatics Student**
