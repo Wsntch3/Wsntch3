@@ -7,11 +7,7 @@
 🚀 Interested in **Software Engineering** and building real-world applications
 
 📫 **Reach me at:**
-[LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) • [Email](mailto:anandawhisnuuu@email.com)
-
-<p align="center">
-  <img src="https://github.com/Wsntch3.png" width="150" style="border-radius:50%" />
-</p> • [Email](mailto:anandawhisnuuu@email.com)
+[LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) • [Email](mailto:anandawhisnuuu@email.com) • [Email](mailto:anandawhisnuuu@email.com)
 
 ---
 
