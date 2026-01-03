@@ -1,8 +1,11 @@
 ## Hi there, I'm Whisnu 👋
 
 👨‍💻 **Informatics Student**
+
 🌱 Currently learning **App Development** and **Data Structures**
+
 🚀 Interested in **Software Engineering** and building real-world applications
+
 📫 **Reach me at:**
 [LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) • [Email](mailto:anandawhisnuuu@email.com)
 
