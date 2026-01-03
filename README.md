@@ -24,16 +24,6 @@
 
 ---
 
-### 📈 Contribution Activity 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wsntch3&theme=redical&hide_border=true" />
-</p>
-
-> This graph updates automatically every time you push commits, open pull requests, or stay active on GitHub.
-
----
-
 ### 🧠 Language Usage by Repositories
 
 <p align="center">
