@@ -1,13 +1,10 @@
 ## Hi there, I'm Whisnu 👋
 
 👨‍💻 **Informatics Student**
-
 🌱 Currently learning **App Development** and **Data Structures**
-
 🚀 Interested in **Software Engineering** and building real-world applications
-
 📫 **Reach me at:**
-[LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) • [Email](mailto:anandawhisnuuu@email.com) • [Email](mailto:anandawhisnuuu@email.com)
+[LinkedIn](https://linkedin.com/in/ananda-whisnu-nurhidayat-6556681b1) • [Email](mailto:anandawhisnuuu@email.com)
 
 ---
 
@@ -20,7 +17,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165" />
@@ -32,6 +29,26 @@
 </p>
 
 ---
+
+### 📈 Contribution Activity 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wsntch3&theme=redical&hide_border=true" />
+</p>
+
+> This graph updates automatically every time you push commits, open pull requests, or stay active on GitHub.
+
+---
+
+### 🧠 Language Usage by Repositories
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wsntch3&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wsntch3&theme=radical" />
+</p>
+
+---
+
 
 ### 📌 Current Focus
 
