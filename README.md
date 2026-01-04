@@ -21,8 +21,10 @@
 ---
 
 ### 📊 GitHub Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsntch3)](https://github.com/Wsntch3
-/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&count_private=true" height="165"/>
+</p>
+
 
 ---
 
