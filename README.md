@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wsntch3&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&count_private=true" height="165"/>
 </p>
 
 ---
