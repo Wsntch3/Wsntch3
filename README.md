@@ -13,8 +13,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C++, JavaScript, Dart (learning)
-* **App Development:** Flutter (beginner)
+* **Languages:** C++, JavaScript, Java, Python
 * **Tools:** Git, GitHub, VS Code, Android Studio
 * **Concepts:** Data Structures, OOP, Basic Algorithms
 
