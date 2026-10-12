@@ -2,8 +2,6 @@
 
 👨‍💻 **Informatics Student**
 
-🌱 Currently learning **App Development** and **Data Structures**
-
 🚀 Interested in **Software Engineering** and building real-world applications
 
 📫 **Reach me at:**
@@ -13,8 +11,8 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C++, JavaScript, Java, Python
-* **Tools:** Git, GitHub, VS Code, Android Studio
+* **Languages:** C++, JavaScript, Java, Python,Go
+* **Tools:** Git, GitHub, VS Code
 * **Concepts:** Data Structures, OOP, Basic Algorithms
 
 ---
