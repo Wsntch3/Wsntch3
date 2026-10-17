@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C++, JavaScript, Java, Python,Go
+* **Languages:** C++,Go
 * **Tools:** Git, GitHub, VS Code
 * **Concepts:** Data Structures, OOP, Basic Algorithms
 
