@@ -11,28 +11,28 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C++,Go
+* **Languages:** C++, Go
 * **Tools:** Git, GitHub, VS Code
 * **Concepts:** Data Structures, OOP, Basic Algorithms
 
 ---
 
-### 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&count_private=true" height="165"/>
-</p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&v=2" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wsntch3&theme=radical&hide_border=true&v=2" height="165" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ### 🧠 Language Usage by Repositories
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wsntch3&theme=radical" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language"/>
 </p>
 
 ---
-
 
 ### 📌 Current Focus
 
