@@ -29,7 +29,7 @@
 ### 🧠 Language Usage by Repositories
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language"/>
+    <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language"/>
 </p>
 
 ---
