@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="165" alt="Repos per language"/>
-  <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="165" alt="Most commit language"/>
+ 
 </p>
 
 ---
