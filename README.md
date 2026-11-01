@@ -20,16 +20,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wsntch3&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&v=2" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wsntch3&theme=radical&hide_border=true&v=2" height="165" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/3-stats.svg" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Wsntch3&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🧠 Language Usage by Repositories
+### 🧠 Language Usage
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="165" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/Wsntch3/Wsntch3/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="165" alt="Most commit language"/>
 </p>
 
 ---
