@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 * **Languages:** C++, Go
-* **Tools:** Git, GitHub, VS Code
+* **Tools:** Git, GitHub, VS Code, Linux
 * **Concepts:** Data Structures, OOP, Basic Algorithms
 
 ---
